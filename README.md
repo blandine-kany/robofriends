@@ -1,6 +1,8 @@
 # Robofriends
 A simple interactive frontend project built with React.
 
+Link: https://blandine-kany.github.io/robofriends
+
 Technical Stack: 
  - NPM
  - React
