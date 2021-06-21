@@ -1,6 +1,15 @@
 # Robofriends
 A simple interactive frontend project built with React.
 
+Technical Stack: 
+ - NPM
+ - React
+ - Javascript
+ - HTML
+ - CSS
+ - VS code
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
