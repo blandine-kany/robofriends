@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MONO';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MONO'),
+    url('Monoton-Regular.woff') format('woff');
+}
+
+h1 {
+    font-family: 'MONO';
+    font-weight: 500;
+}
